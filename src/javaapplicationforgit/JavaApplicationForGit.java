@@ -16,6 +16,8 @@ public class JavaApplicationForGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        // 12345
     }
     
 }
